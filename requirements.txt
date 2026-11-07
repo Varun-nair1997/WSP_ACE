@@ -1,0 +1,7 @@
+numpy>=1.26
+matplotlib>=3.8
+ase>=3.23
+pyace
+requests>=2.31
+ipython>=8.0
+jupyterlab>=4.0
